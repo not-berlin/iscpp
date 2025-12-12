@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"d:\\iscplusplus\\nghichthe1\\temp.cpp","tests":[{"id":1718437722823,"input":"6\n0 1 0 3 4 1","output":"4 3 6 2 1 5 "},{"id":1718440182879,"input":"4\n0 0 0 0","output":"1 2 3 4 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\iscplusplus\\nghichthe1\\temp.cpp","group":"local","local":true}
